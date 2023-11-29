@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "michael levin",
+        "phon": "0556877423",
+        "email": "m7423@gmail.com",
+        "role": "Senior Manager",
+        "joinDate": 2020,
+        "class": "A"
+    },
+    {
+        "id": 2,
+        "name": "sara chen",
+        "phon": "0523699874",
+        "email": "saraChen@gmail.com",
+        "role": "Team leader",
+        "joinDate": 2021,
+        "class": "B"
+    },
+    {
+        "id": 3,
+        "name": "miryam fridman",
+        "phon": "0556722362",
+        "email": "m22362@gmail.com",
+        "role": "Team leader",
+        "joinDate": 2018,
+        "class": "B"
+    },
+    {
+        "id": 4,
+        "name": "gay sharon",
+        "phon": "0587456985",
+        "email": "gay6985@gmail.com",
+        "role": "emploee",
+        "joinDate": 2007,
+        "class": "A"
+    },
+    {
+        "id": 5,
+        "name": "michal aviv",
+        "phon": "0583242974",
+        "email": "michalAviv@gmail.com",
+        "role": "emploee",
+        "joinDate": 2022,
+        "class": "C"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 100,
+        "description": "photo"
+    },
+    {
+        "id": 101,
+        "description": "drawing"
+    },
+    {
+        "id": 102,
+        "description": "software testing"
+    },
+    {
+        "id": 103,
+        "description": "graphics"
+    },
+    {
+        "id": 104,
+        "description": "math"
+    }
+]
